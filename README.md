@@ -37,3 +37,11 @@ Every entry is securely stored on-chain and cannot be modified once recorded.
 ✅ **Upgradeable Idea** – Can later include time locks, fund transfers, or executors.
 
 ---
+## 🌐 Deployed Smart Contract
+Network: Sepolia Testnet
+
+Deployment Transaction: View on Celoscan
+
+Smart Contract Address: https://sepolia.celoscan.io/tx/0x2d848644645ed9d7da43336b13757b4333bfcad5ab92cdf15f10d5d94fe343f2
+
+View on Etherscan: https://etherscan.io/address/https://sepolia.celoscan.io/tx/0x2d848644645ed9d7da43336b13757b4333bfcad5ab92cdf15f10d5d94fe343f2
